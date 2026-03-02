@@ -109,6 +109,3 @@ Si `matplotlib` está instalado, se mostrará una gráfica del tour.
 El espacio de estados crece como `O(n * 2^n)`. Para 10 ciudades, A\* suele ser viable con esta heurística.
 
 ---
-
-## Licencia
-Uso académico/educativo. Puedes adaptar el código libremente.
